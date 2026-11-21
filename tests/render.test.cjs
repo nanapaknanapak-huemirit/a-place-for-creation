@@ -14,9 +14,9 @@ test("renderSite renders every tool and replaces all tokens", () => {
   const result = renderSite({ payload, template, config, now });
   const cards = (result.html.match(/<article class="card"/g) || []).length;
   assert.equal(cards, payload.tools.length);
-  assert.equal(result.stats.counts.video, 16);
-  assert.equal(result.stats.counts.text, 15);
-  assert.equal(result.stats.counts.images, 17);
+  for (const category of ["video", "text", "images"]) {
+    assert.equal(result.stats.counts[category], payload.tools.filter((tool) => tool.category === category).length);
+  }
   assert.equal(result.stats.guide, 48);
   assert.ok(!/\{\{[A-Z_]+\}\}/.test(result.html));
   assert.ok(result.html.includes(`Showing all ${payload.tools.length} tools`));

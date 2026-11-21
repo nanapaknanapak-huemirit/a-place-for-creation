@@ -22,7 +22,11 @@ test("the real tools payload passes validation", () => {
   const result = validateToolsPayload(payload);
   assert.deepEqual(result.errors, []);
   assert.equal(result.guide, 48);
-  assert.deepEqual(result.counts, { video: 16, text: 15, images: 17 });
+  const expectedCounts = payload.tools.reduce((counts, tool) => {
+    counts[tool.category] += 1;
+    return counts;
+  }, { video: 0, text: 0, images: 0 });
+  assert.deepEqual(result.counts, expectedCounts);
 });
 
 test("duplicate ids and URLs are rejected", () => {
