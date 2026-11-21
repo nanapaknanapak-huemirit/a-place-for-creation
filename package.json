@@ -1,0 +1,17 @@
+{
+  "name": "a-place-for-creation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A Place for Creation \u2014 free tools for video, text, and images",
+  "scripts": {
+    "render": "node scripts/render-site.cjs",
+    "guide": "node scripts/build-guide.cjs",
+    "discover": "node scripts/discover-tools.cjs",
+    "update": "node scripts/update-site.cjs",
+    "validate": "node scripts/validate-data.cjs",
+    "preflight": "node scripts/preflight.cjs",
+    "check-links": "node scripts/check-links.cjs",
+    "test": "node --test tests/*.test.cjs",
+    "review": "node scripts/review-pending.cjs"
+  }
+}

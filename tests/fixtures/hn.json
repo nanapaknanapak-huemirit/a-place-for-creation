@@ -1,0 +1,25 @@
+{
+  "hits": [
+    {
+      "title": "Show HN: OpenFilm",
+      "url": "https://openfilm.example/",
+      "points": 12,
+      "created_at_i": 1795160000,
+      "objectID": "1"
+    },
+    {
+      "title": "Show HN: Mystery HN",
+      "url": "https://mysteryhn.example/",
+      "points": 9,
+      "created_at_i": 1795160100,
+      "objectID": "2"
+    },
+    {
+      "title": "Show HN: LowPoints",
+      "url": "https://lowpoints.example/",
+      "points": 1,
+      "created_at_i": 1795160200,
+      "objectID": "3"
+    }
+  ]
+}

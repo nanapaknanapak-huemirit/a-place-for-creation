@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "userAgent": "a-place-for-creation/1.0 (+https://github.com/nanapaknanapak-huemirit)",
+  "sources": [
+    {
+      "id": "awesome-tools",
+      "label": "Awesome Tools",
+      "kind": "markdown",
+      "url": "https://raw.githubusercontent.com/kritagyadubey/awesome-tools/main/README.md",
+      "enabled": true,
+      "sections": [
+        { "heading": "AI writing, editing and grammar", "category": "text" },
+        { "heading": "AI summarization and document analysis", "category": "text" },
+        { "heading": "AI translation and language learning", "category": "text" },
+        { "heading": "AI presentations, slides and visual storytelling", "category": "images" },
+        { "heading": "AI image generation", "category": "images" },
+        { "heading": "AI photo editing, upscaling, restoration and background removal", "category": "images" },
+        { "heading": "AI video generation and animation", "category": "video" },
+        { "heading": "AI video editing and captioning", "category": "video" },
+        { "heading": "AI text-to-speech and voice cloning", "category": "video" },
+        { "heading": "Speech-to-text and transcription", "category": "text" },
+        { "heading": "Free image, audio and video model resources", "category": null, "requireKeywords": true },
+        { "heading": "Notes and personal knowledge bases", "category": "text" },
+        { "heading": "Documents and office suites", "category": "text" },
+        { "heading": "Distraction-free and Markdown writing", "category": "text" },
+        { "heading": "Grammar, spell checking and readability", "category": "text" },
+        { "heading": "Dictionaries, thesauri and text utilities", "category": "text" },
+        { "heading": "Presentations and slide decks", "category": "text" },
+        { "heading": "Newsletters and mailing lists", "category": "text" },
+        { "heading": "Raster image editing and photo management", "category": "images" },
+        { "heading": "Vector graphics and illustration", "category": "images" },
+        { "heading": "UI/UX design, wireframing and prototyping", "category": "images" },
+        { "heading": "Logo creation, typography and fonts", "category": "images" },
+        { "heading": "Colour palettes, icons and illustrations", "category": "images" },
+        { "heading": "Stock photos, video and music", "category": null, "requireKeywords": true },
+        { "heading": "Diagrams, flowcharts, infographics and data visualisation", "category": "images" },
+        { "heading": "3D modelling, CAD and animation", "category": "images" },
+        { "heading": "Video editing", "category": "video" },
+        { "heading": "Screen recording and live streaming", "category": "video" },
+        { "heading": "Media conversion, compression and subtitles", "category": "video" },
+        { "heading": "Audio editing, music production and podcasting", "category": "video" },
+        { "heading": "Royalty-free sound and music libraries", "category": "video" },
+        { "heading": "PDF creation, editing, merging and splitting", "category": "text" },
+        { "heading": "OCR and document scanning", "category": "text" },
+        { "heading": "File and format conversion", "category": null, "requireKeywords": true },
+        { "heading": "Image conversion, compression and resizing", "category": "images" },
+        { "heading": "Research paper search and discovery", "category": "text" },
+        { "heading": "Reference managers and citation generators", "category": "text" },
+        { "heading": "Digital libraries and open textbooks", "category": "text" },
+        { "heading": "Language learning and practice", "category": "text" },
+        { "heading": "Hidden Gems", "category": null, "requireKeywords": true }
+      ]
+    },
+    {
+      "id": "free-for-dev",
+      "label": "free-for.dev",
+      "kind": "markdown",
+      "url": "https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md",
+      "enabled": true,
+      "sections": [
+        { "heading": "Design and UI", "category": "images" },
+        { "heading": "Font", "category": "images" },
+        { "heading": "Screenshot APIs", "category": "images" },
+        { "heading": "Translation Management", "category": "text" },
+        { "heading": "CMS", "category": "text" },
+        { "heading": "Dev Blogging Sites", "category": "text" },
+        { "heading": "Generative AI", "category": null, "requireKeywords": true },
+        { "heading": "Storage and Media Processing", "category": null, "requireKeywords": true }
+      ]
+    },
+    {
+      "id": "show-hn",
+      "label": "Show HN",
+      "kind": "hn-algolia",
+      "url": "https://hn.algolia.com/api/v1/search_by_date",
+      "tags": "show_hn",
+      "lookbackDays": 3,
+      "minPoints": 5,
+      "enabled": true
+    }
+  ]
+}

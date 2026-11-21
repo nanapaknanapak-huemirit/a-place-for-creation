@@ -1,0 +1,9 @@
+{
+  "newBadgeDays": 30,
+  "maxNewPerRun": 5,
+  "maxPendingPerRun": 25,
+  "showHnLookbackDays": 3,
+  "requestTimeoutMs": 15000,
+  "linkCheckTimeoutMs": 12000,
+  "linkCheckFailureThreshold": 3
+}

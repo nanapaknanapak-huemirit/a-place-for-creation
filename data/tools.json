@@ -1,0 +1,1465 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-21T10:12:01.685Z",
+  "tools": [
+    {
+      "id": "capcut",
+      "name": "CapCut",
+      "url": "https://www.capcut.com/",
+      "category": "video",
+      "summary": "A fast browser and desktop editor with templates, auto-captions, and social-ready export presets. The free tier covers most everyday edits; some effects and exports are Pro-only.",
+      "tags": [
+        "Templates",
+        "Captions",
+        "Short-form"
+      ],
+      "tier": "Free tier",
+      "tierClass": "tier",
+      "access": "Browser · Desktop",
+      "keywords": [
+        "bytedance",
+        "tiktok"
+      ],
+      "monogram": "Cc",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 1,
+      "failureCount": 0
+    },
+    {
+      "id": "clipchamp",
+      "name": "Clipchamp",
+      "url": "https://clipchamp.com/",
+      "category": "video",
+      "summary": "Microsoft's browser editor for trimming, captions, screen recording, and template-based videos. Free exports at 1080p; premium stock and effects are paid.",
+      "tags": [
+        "1080p",
+        "Screen recording",
+        "Templates"
+      ],
+      "tier": "Free tier",
+      "tierClass": "tier",
+      "access": "Browser",
+      "keywords": [
+        "microsoft"
+      ],
+      "monogram": "Cl",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 2,
+      "failureCount": 0
+    },
+    {
+      "id": "canva-video",
+      "name": "Canva Video",
+      "url": "https://www.canva.com/video-editor/",
+      "category": "video",
+      "summary": "Drag-and-drop video editing inside Canva's design workspace, with templates, music, and brand kits. The free plan includes core editing; premium assets are marked.",
+      "tags": [
+        "Templates",
+        "Social",
+        "Design"
+      ],
+      "tier": "Free tier",
+      "tierClass": "tier",
+      "access": "Browser · Mobile",
+      "keywords": [
+        "design"
+      ],
+      "monogram": "Cv",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 3,
+      "failureCount": 0
+    },
+    {
+      "id": "davinci-resolve",
+      "name": "DaVinci Resolve",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+      "category": "video",
+      "summary": "A professional-grade editor, color suite, VFX page, and audio workstation in one free desktop app. The free version is genuinely capable; Studio adds AI tools and higher frame rates.",
+      "tags": [
+        "Color grading",
+        "VFX",
+        "Pro"
+      ],
+      "tier": "Free version",
+      "tierClass": "tier",
+      "access": "Desktop",
+      "keywords": [
+        "blackmagic",
+        "fusion",
+        "fairlight"
+      ],
+      "monogram": "Dv",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 4,
+      "failureCount": 0
+    },
+    {
+      "id": "shotcut",
+      "name": "Shotcut",
+      "url": "https://shotcut.org/",
+      "category": "video",
+      "summary": "An open-source editor that handles nearly any format without import friction. Cross-platform, no account, and no watermark.",
+      "tags": [
+        "No signup",
+        "Cross-platform",
+        "Format support"
+      ],
+      "tier": "Open source",
+      "tierClass": "tier tier-open",
+      "access": "Desktop",
+      "keywords": [],
+      "monogram": "Sc",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 5,
+      "failureCount": 0
+    },
+    {
+      "id": "kdenlive",
+      "name": "Kdenlive",
+      "url": "https://kdenlive.org/",
+      "category": "video",
+      "summary": "A mature open-source editor from KDE with multi-track timelines, proxy editing, and a broad effects set. Free on Linux, Windows, and macOS.",
+      "tags": [
+        "Multi-track",
+        "Proxy editing",
+        "Effects"
+      ],
+      "tier": "Open source",
+      "tierClass": "tier tier-open",
+      "access": "Desktop",
+      "keywords": [
+        "kde",
+        "linux"
+      ],
+      "monogram": "Kd",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 6,
+      "failureCount": 0
+    },
+    {
+      "id": "obs-studio",
+      "name": "OBS Studio",
+      "url": "https://obsproject.com/",
+      "category": "video",
+      "summary": "The standard for screen recording and live streaming, with scenes, sources, and audio mixing. Completely free and open source.",
+      "tags": [
+        "Screen recording",
+        "Streaming",
+        "Audio mixing"
+      ],
+      "tier": "Open source",
+      "tierClass": "tier tier-open",
+      "access": "Desktop",
+      "keywords": [
+        "streaming",
+        "screen",
+        "capture"
+      ],
+      "monogram": "Ob",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 7,
+      "failureCount": 0
+    },
+    {
+      "id": "handbrake",
+      "name": "HandBrake",
+      "url": "https://handbrake.fr/",
+      "category": "video",
+      "summary": "A no-nonsense video converter and compressor for shrinking files or making them play anywhere. Open source, batch-friendly, and free.",
+      "tags": [
+        "Compression",
+        "Conversion",
+        "Batch"
+      ],
+      "tier": "Open source",
+      "tierClass": "tier tier-open",
+      "access": "Desktop",
+      "keywords": [
+        "converter",
+        "compressor"
+      ],
+      "monogram": "Hb",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 8,
+      "failureCount": 0
+    },
+    {
+      "id": "veed",
+      "name": "VEED",
+      "url": "https://www.veed.io/",
+      "category": "video",
+      "summary": "A browser editor built around captions, subtitles, and quick social cuts. The free plan allows real exports with limits and a watermark on some output.",
+      "tags": [
+        "Captions",
+        "Subtitles",
+        "Social"
+      ],
+      "tier": "Free tier",
+      "tierClass": "tier",
+      "access": "Browser",
+      "keywords": [
+        "subtitles",
+        "captions"
+      ],
+      "monogram": "Ve",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 9,
+      "failureCount": 0
+    },
+    {
+      "id": "kapwing",
+      "name": "Kapwing",
+      "url": "https://www.kapwing.com/",
+      "category": "video",
+      "summary": "Collaborative browser editing with templates, auto-subtitles, and a repurposer for turning long video into clips. The free plan has export limits and a watermark.",
+      "tags": [
+        "Collaboration",
+        "Auto-subtitles",
+        "Repurposing"
+      ],
+      "tier": "Free tier",
+      "tierClass": "tier",
+      "access": "Browser",
+      "keywords": [],
+      "monogram": "Kw",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 10,
+      "failureCount": 0
+    },
+    {
+      "id": "descript",
+      "name": "Descript",
+      "url": "https://www.descript.com/",
+      "category": "video",
+      "summary": "Edit video and audio by editing a text transcript, with filler-word removal and studio sound. The free plan includes a small monthly transcription allowance.",
+      "tags": [
+        "Transcript editing",
+        "Podcasts",
+        "Filler removal"
+      ],
+      "tier": "Free tier",
+      "tierClass": "tier",
+      "access": "Desktop · Browser",
+      "keywords": [
+        "podcast",
+        "transcript"
+      ],
+      "monogram": "De",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 11,
+      "failureCount": 0
+    },
+    {
+      "id": "adobe-firefly-video",
+      "name": "Adobe Firefly Video",
+      "url": "https://firefly.adobe.com/",
+      "category": "video",
+      "summary": "Adobe's generative video workspace with renewing free daily generations. Useful for short concept clips; commercial terms and model access vary by plan and region.",
+      "tags": [
+        "Generative",
+        "Daily credits",
+        "Concept clips"
+      ],
+      "tier": "Free tier",
+      "tierClass": "tier",
+      "access": "Browser",
+      "keywords": [
+        "adobe",
+        "generative",
+        "ai"
+      ],
+      "monogram": "Af",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 12,
+      "failureCount": 0
+    },
+    {
+      "id": "google-flow",
+      "name": "Google Flow",
+      "url": "https://labs.google/flow",
+      "category": "video",
+      "summary": "Google's AI filmmaking tool built around Veo models, with a free daily credit allowance in supported regions. Good for experimenting with text-to-video and image-to-video.",
+      "tags": [
+        "Veo",
+        "AI video",
+        "Daily credits"
+      ],
+      "tier": "Free tier",
+      "tierClass": "tier",
+      "access": "Browser",
+      "keywords": [
+        "google",
+        "veo",
+        "ai"
+      ],
+      "monogram": "Gf",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 13,
+      "failureCount": 0
+    },
+    {
+      "id": "dreamina",
+      "name": "Dreamina",
+      "url": "https://dreamina.capcut.com/",
+      "category": "video",
+      "summary": "ByteDance's browser studio for AI video and image generation with a daily credit grant. Free exports carry a watermark.",
+      "tags": [
+        "AI video",
+        "Daily credits",
+        "Seedance"
+      ],
+      "tier": "Free tier",
+      "tierClass": "tier",
+      "access": "Browser",
+      "keywords": [
+        "bytedance",
+        "seedance"
+      ],
+      "monogram": "Dr",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 14,
+      "failureCount": 0
+    },
+    {
+      "id": "pixverse",
+      "name": "PixVerse",
+      "url": "https://pixverse.ai/",
+      "category": "video",
+      "summary": "A generative video platform with effects, image-to-video, and a recurring free credit allowance. Free output is lower resolution and usually watermarked.",
+      "tags": [
+        "Image-to-video",
+        "Effects",
+        "Daily credits"
+      ],
+      "tier": "Free tier",
+      "tierClass": "tier",
+      "access": "Browser",
+      "keywords": [
+        "image",
+        "to",
+        "video"
+      ],
+      "monogram": "Px",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 15,
+      "failureCount": 0
+    },
+    {
+      "id": "pexels-videos",
+      "name": "Pexels Videos",
+      "url": "https://www.pexels.com/videos/",
+      "category": "video",
+      "summary": "A large library of free stock footage and drone clips under the Pexels license. No account needed to browse or download.",
+      "tags": [
+        "Stock footage",
+        "No signup",
+        "Commercial use"
+      ],
+      "tier": "Free",
+      "tierClass": "tier tier-free",
+      "access": "Browser",
+      "keywords": [
+        "stock",
+        "footage",
+        "video",
+        "clips"
+      ],
+      "monogram": "Pv",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 16,
+      "failureCount": 0
+    },
+    {
+      "id": "chatgpt",
+      "name": "ChatGPT",
+      "url": "https://chatgpt.com/",
+      "category": "text",
+      "summary": "OpenAI's assistant for drafting, rewriting, brainstorming, and working through documents. The free tier gives access to a capable model with usage limits.",
+      "tags": [
+        "AI writing",
+        "Drafting",
+        "Brainstorming"
+      ],
+      "tier": "Free tier",
+      "tierClass": "tier",
+      "access": "Browser · Mobile",
+      "keywords": [
+        "openai",
+        "gpt",
+        "ai",
+        "writing"
+      ],
+      "monogram": "Ch",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 17,
+      "failureCount": 0
+    },
+    {
+      "id": "claude",
+      "name": "Claude",
+      "url": "https://claude.ai/",
+      "category": "text",
+      "summary": "Anthropic's writing-focused assistant, strong at long documents, editing, and structured thinking. The free plan includes daily message limits.",
+      "tags": [
+        "Long documents",
+        "Editing",
+        "Analysis"
+      ],
+      "tier": "Free tier",
+      "tierClass": "tier",
+      "access": "Browser · Desktop",
+      "keywords": [
+        "anthropic",
+        "ai",
+        "writing"
+      ],
+      "monogram": "Cl",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 18,
+      "failureCount": 0
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "url": "https://gemini.google.com/",
+      "category": "text",
+      "summary": "Google's assistant with a long context window and tight integration with Docs, Gmail, and search. Free with a Google account.",
+      "tags": [
+        "Google Workspace",
+        "Research",
+        "Long context"
+      ],
+      "tier": "Free tier",
+      "tierClass": "tier",
+      "access": "Browser · Mobile",
+      "keywords": [
+        "google",
+        "ai",
+        "assistant"
+      ],
+      "monogram": "Ge",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 19,
+      "failureCount": 2,
+      "lastFailureAt": "2026-11-20T11:01:49.983Z"
+    },
+    {
+      "id": "microsoft-copilot",
+      "name": "Microsoft Copilot",
+      "url": "https://copilot.microsoft.com/",
+      "category": "text",
+      "summary": "A free assistant for drafting, summarizing, and web-grounded answers, with optional Microsoft 365 integration on paid plans.",
+      "tags": [
+        "Drafting",
+        "Summaries",
+        "Web answers"
+      ],
+      "tier": "Free tier",
+      "tierClass": "tier",
+      "access": "Browser · Mobile",
+      "keywords": [
+        "microsoft",
+        "bing",
+        "ai"
+      ],
+      "monogram": "Co",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 20,
+      "failureCount": 0
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "url": "https://www.perplexity.ai/",
+      "category": "text",
+      "summary": "An answer engine that cites its sources, useful for research and quick fact-checking. The free tier includes limited advanced searches.",
+      "tags": [
+        "Research",
+        "Citations",
+        "Fact-checking"
+      ],
+      "tier": "Free tier",
+      "tierClass": "tier",
+      "access": "Browser · Mobile",
+      "keywords": [
+        "research",
+        "citations"
+      ],
+      "monogram": "Pe",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 21,
+      "failureCount": 0
+    },
+    {
+      "id": "notebooklm",
+      "name": "NotebookLM",
+      "url": "https://notebooklm.google/",
+      "category": "text",
+      "summary": "Upload sources and get grounded summaries, study guides, and audio overviews. Free with a Google account.",
+      "tags": [
+        "Research",
+        "Sources",
+        "Audio overview"
+      ],
+      "tier": "Free tier",
+      "tierClass": "tier",
+      "access": "Browser",
+      "keywords": [
+        "google",
+        "research",
+        "sources"
+      ],
+      "monogram": "Nl",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 22,
+      "failureCount": 0
+    },
+    {
+      "id": "google-docs",
+      "name": "Google Docs",
+      "url": "https://docs.google.com/",
+      "category": "text",
+      "summary": "Collaborative long-form writing with comments, suggestions, and version history. Free with a Google account.",
+      "tags": [
+        "Collaboration",
+        "Comments",
+        "Version history"
+      ],
+      "tier": "Free",
+      "tierClass": "tier tier-free",
+      "access": "Browser · Mobile",
+      "keywords": [
+        "google",
+        "docs",
+        "writing"
+      ],
+      "monogram": "Gd",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 23,
+      "failureCount": 0
+    },
+    {
+      "id": "notion",
+      "name": "Notion",
+      "url": "https://www.notion.com/",
+      "category": "text",
+      "summary": "A flexible workspace for notes, docs, wikis, and lightweight project planning. The personal plan is free.",
+      "tags": [
+        "Notes",
+        "Wiki",
+        "Planning"
+      ],
+      "tier": "Free tier",
+      "tierClass": "tier",
+      "access": "Browser · Desktop",
+      "keywords": [
+        "notes",
+        "wiki",
+        "workspace"
+      ],
+      "monogram": "No",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 24,
+      "failureCount": 0
+    },
+    {
+      "id": "obsidian",
+      "name": "Obsidian",
+      "url": "https://obsidian.md/",
+      "category": "text",
+      "summary": "A local-first Markdown notes app with linking, graph view, and a huge plugin ecosystem. Free for personal use; sync and publishing are paid.",
+      "tags": [
+        "Markdown",
+        "Backlinks",
+        "Local-first"
+      ],
+      "tier": "Free",
+      "tierClass": "tier tier-free",
+      "access": "Desktop · Mobile",
+      "keywords": [
+        "markdown",
+        "notes",
+        "local"
+      ],
+      "monogram": "Ob",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 25,
+      "failureCount": 0
+    },
+    {
+      "id": "libreoffice",
+      "name": "LibreOffice",
+      "url": "https://www.libreoffice.org/",
+      "category": "text",
+      "summary": "A full open-source office suite with Writer, Calc, and Impress. Free, offline, and compatible with common document formats.",
+      "tags": [
+        "Writer",
+        "Offline",
+        "Office suite"
+      ],
+      "tier": "Open source",
+      "tierClass": "tier tier-open",
+      "access": "Desktop",
+      "keywords": [
+        "office",
+        "suite",
+        "writer"
+      ],
+      "monogram": "Lo",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 26,
+      "failureCount": 0
+    },
+    {
+      "id": "grammarly",
+      "name": "Grammarly",
+      "url": "https://www.grammarly.com/",
+      "category": "text",
+      "summary": "Grammar, clarity, and tone suggestions across the browser and desktop apps. The free plan covers core corrections; advanced rewrites are paid.",
+      "tags": [
+        "Grammar",
+        "Clarity",
+        "Tone"
+      ],
+      "tier": "Free tier",
+      "tierClass": "tier",
+      "access": "Browser · Desktop",
+      "keywords": [
+        "grammar",
+        "spelling"
+      ],
+      "monogram": "Gr",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 27,
+      "failureCount": 0
+    },
+    {
+      "id": "languagetool",
+      "name": "LanguageTool",
+      "url": "https://languagetool.org/",
+      "category": "text",
+      "summary": "An open-source grammar and style checker with support for many languages. The core checker is free; premium adds advanced style rules.",
+      "tags": [
+        "Grammar",
+        "Multilingual",
+        "Style"
+      ],
+      "tier": "Open source",
+      "tierClass": "tier tier-open",
+      "access": "Browser · Desktop",
+      "keywords": [
+        "grammar",
+        "style",
+        "multilingual"
+      ],
+      "monogram": "Lt",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 28,
+      "failureCount": 0
+    },
+    {
+      "id": "quillbot",
+      "name": "QuillBot",
+      "url": "https://quillbot.com/",
+      "category": "text",
+      "summary": "Paraphrasing, summarizing, and citation tools for polishing text. The free plan has a word limit per paraphrase.",
+      "tags": [
+        "Paraphrase",
+        "Summarize",
+        "Citations"
+      ],
+      "tier": "Free tier",
+      "tierClass": "tier",
+      "access": "Browser",
+      "keywords": [
+        "paraphrase",
+        "summarize"
+      ],
+      "monogram": "Qb",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 29,
+      "failureCount": 0
+    },
+    {
+      "id": "deepl",
+      "name": "DeepL",
+      "url": "https://www.deepl.com/",
+      "category": "text",
+      "summary": "High-quality machine translation with a document mode and a natural tone. The free tier has text and document limits.",
+      "tags": [
+        "Translation",
+        "Documents",
+        "Multilingual"
+      ],
+      "tier": "Free tier",
+      "tierClass": "tier",
+      "access": "Browser · Desktop",
+      "keywords": [
+        "translation",
+        "translator"
+      ],
+      "monogram": "Dl",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 30,
+      "failureCount": 0
+    },
+    {
+      "id": "hemingway-editor",
+      "name": "Hemingway Editor",
+      "url": "https://hemingwayapp.com/",
+      "category": "text",
+      "summary": "Paste in a draft and see long sentences, passive voice, and readability at a glance. The web editor is free.",
+      "tags": [
+        "Readability",
+        "Editing",
+        "Style"
+      ],
+      "tier": "Free",
+      "tierClass": "tier tier-free",
+      "access": "Browser",
+      "keywords": [
+        "readability",
+        "editing"
+      ],
+      "monogram": "He",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 31,
+      "failureCount": 0
+    },
+    {
+      "id": "canva",
+      "name": "Canva",
+      "url": "https://www.canva.com/",
+      "category": "images",
+      "summary": "Templates and a drag-and-drop editor for social graphics, posters, presentations, and simple photo edits. The free plan covers the core tools.",
+      "tags": [
+        "Templates",
+        "Social graphics",
+        "Posters"
+      ],
+      "tier": "Free tier",
+      "tierClass": "tier",
+      "access": "Browser · Mobile",
+      "keywords": [
+        "design",
+        "templates"
+      ],
+      "monogram": "Ca",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 32,
+      "failureCount": 0
+    },
+    {
+      "id": "photopea",
+      "name": "Photopea",
+      "url": "https://www.photopea.com/",
+      "category": "images",
+      "summary": "A remarkably complete Photoshop-style editor that runs in the browser. Free, no account, and it opens PSD files.",
+      "tags": [
+        "PSD",
+        "No signup",
+        "Layers"
+      ],
+      "tier": "Free",
+      "tierClass": "tier tier-free",
+      "access": "Browser",
+      "keywords": [
+        "photoshop",
+        "psd",
+        "editor"
+      ],
+      "monogram": "Ph",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 33,
+      "failureCount": 0
+    },
+    {
+      "id": "gimp",
+      "name": "GIMP",
+      "url": "https://www.gimp.org/",
+      "category": "images",
+      "summary": "A long-running open-source image editor for retouching, compositing, and graphic work. Free on Linux, Windows, and macOS.",
+      "tags": [
+        "Retouching",
+        "Compositing",
+        "Plugins"
+      ],
+      "tier": "Open source",
+      "tierClass": "tier tier-open",
+      "access": "Desktop",
+      "keywords": [
+        "photo",
+        "editor",
+        "retouching"
+      ],
+      "monogram": "Gi",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 34,
+      "failureCount": 0
+    },
+    {
+      "id": "krita",
+      "name": "Krita",
+      "url": "https://krita.org/",
+      "category": "images",
+      "summary": "An open-source painting app built for illustrators and digital artists, with brushes, animation, and a distraction-free canvas.",
+      "tags": [
+        "Painting",
+        "Illustration",
+        "Animation"
+      ],
+      "tier": "Open source",
+      "tierClass": "tier tier-open",
+      "access": "Desktop",
+      "keywords": [
+        "painting",
+        "illustration"
+      ],
+      "monogram": "Kr",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 35,
+      "failureCount": 0
+    },
+    {
+      "id": "inkscape",
+      "name": "Inkscape",
+      "url": "https://inkscape.org/",
+      "category": "images",
+      "summary": "A free vector editor for logos, icons, diagrams, and print-ready artwork, using SVG as its native format.",
+      "tags": [
+        "Vector",
+        "SVG",
+        "Print"
+      ],
+      "tier": "Open source",
+      "tierClass": "tier tier-open",
+      "access": "Desktop",
+      "keywords": [
+        "vector",
+        "svg"
+      ],
+      "monogram": "In",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 36,
+      "failureCount": 1,
+      "lastFailureAt": "2026-11-20T11:02:02.532Z"
+    },
+    {
+      "id": "pixlr",
+      "name": "Pixlr",
+      "url": "https://pixlr.com/",
+      "category": "images",
+      "summary": "A browser photo editor with quick fixes, layers, and AI-assisted tools. The free plan has daily limits and ads.",
+      "tags": [
+        "Photo editing",
+        "Layers",
+        "AI tools"
+      ],
+      "tier": "Free tier",
+      "tierClass": "tier",
+      "access": "Browser",
+      "keywords": [
+        "photo",
+        "editor",
+        "online"
+      ],
+      "monogram": "Px",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 37,
+      "failureCount": 0
+    },
+    {
+      "id": "adobe-express",
+      "name": "Adobe Express",
+      "url": "https://www.adobe.com/express/",
+      "category": "images",
+      "summary": "Adobe's template-driven design tool for social posts, flyers, and short video. The free plan includes core templates and assets.",
+      "tags": [
+        "Templates",
+        "Social",
+        "Quick edits"
+      ],
+      "tier": "Free tier",
+      "tierClass": "tier",
+      "access": "Browser · Mobile",
+      "keywords": [
+        "adobe",
+        "templates",
+        "design"
+      ],
+      "monogram": "Ae",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 38,
+      "failureCount": 0
+    },
+    {
+      "id": "figma",
+      "name": "Figma",
+      "url": "https://www.figma.com/",
+      "category": "images",
+      "summary": "A collaborative interface and graphic design tool with real-time multiplayer. The free Starter plan covers personal projects and small teams.",
+      "tags": [
+        "UI design",
+        "Collaboration",
+        "Prototyping"
+      ],
+      "tier": "Free tier",
+      "tierClass": "tier",
+      "access": "Browser · Desktop",
+      "keywords": [
+        "ui",
+        "design",
+        "prototyping"
+      ],
+      "monogram": "Fi",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 39,
+      "failureCount": 0
+    },
+    {
+      "id": "unsplash",
+      "name": "Unsplash",
+      "url": "https://unsplash.com/",
+      "category": "images",
+      "summary": "High-resolution photography free to use under the Unsplash license. Great for moodboards, backgrounds, and editorial layouts.",
+      "tags": [
+        "Photography",
+        "No signup",
+        "High resolution"
+      ],
+      "tier": "Free",
+      "tierClass": "tier tier-free",
+      "access": "Browser",
+      "keywords": [
+        "stock",
+        "photography",
+        "photos"
+      ],
+      "monogram": "Un",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 40,
+      "failureCount": 0
+    },
+    {
+      "id": "pexels",
+      "name": "Pexels",
+      "url": "https://www.pexels.com/",
+      "category": "images",
+      "summary": "Free stock photos and videos with a generous license and no attribution requirement. Searchable and easy to download.",
+      "tags": [
+        "Stock photos",
+        "No signup",
+        "Commercial use"
+      ],
+      "tier": "Free",
+      "tierClass": "tier tier-free",
+      "access": "Browser",
+      "keywords": [
+        "stock",
+        "photos",
+        "free"
+      ],
+      "monogram": "Pe",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 41,
+      "failureCount": 0
+    },
+    {
+      "id": "pixabay",
+      "name": "Pixabay",
+      "url": "https://pixabay.com/",
+      "category": "images",
+      "summary": "Free photos, illustrations, vectors, and video contributed by a large community. Check individual licenses for sensitive uses.",
+      "tags": [
+        "Photos",
+        "Illustrations",
+        "Vectors"
+      ],
+      "tier": "Free",
+      "tierClass": "tier tier-free",
+      "access": "Browser",
+      "keywords": [
+        "stock",
+        "illustrations",
+        "vectors"
+      ],
+      "monogram": "Pb",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 42,
+      "failureCount": 0
+    },
+    {
+      "id": "bing-image-creator",
+      "name": "Bing Image Creator",
+      "url": "https://www.bing.com/images/create",
+      "category": "images",
+      "summary": "Microsoft's text-to-image tool with a daily allowance of fast generations. Uses DALL·E-family models; limits and watermark options vary.",
+      "tags": [
+        "Text-to-image",
+        "Daily boosts",
+        "AI art"
+      ],
+      "tier": "Free tier",
+      "tierClass": "tier",
+      "access": "Browser",
+      "keywords": [
+        "microsoft",
+        "dall-e",
+        "ai",
+        "art"
+      ],
+      "monogram": "Bi",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 43,
+      "failureCount": 0
+    },
+    {
+      "id": "krea",
+      "name": "Krea",
+      "url": "https://www.krea.ai/",
+      "category": "images",
+      "summary": "A fast generative image and video workspace with a daily free compute allowance. Free images are private for personal experiments.",
+      "tags": [
+        "AI images",
+        "Daily credits",
+        "Real-time"
+      ],
+      "tier": "Free tier",
+      "tierClass": "tier",
+      "access": "Browser",
+      "keywords": [
+        "ai",
+        "image",
+        "realtime"
+      ],
+      "monogram": "Ka",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 44,
+      "failureCount": 0
+    },
+    {
+      "id": "leonardo-ai",
+      "name": "Leonardo AI",
+      "url": "https://leonardo.ai/",
+      "category": "images",
+      "summary": "An AI image generator with fine-tuned styles for characters, game art, and concept work. Free users get daily tokens; images are public.",
+      "tags": [
+        "AI art",
+        "Characters",
+        "Game assets"
+      ],
+      "tier": "Free tier",
+      "tierClass": "tier",
+      "access": "Browser",
+      "keywords": [
+        "ai",
+        "art",
+        "characters",
+        "game",
+        "assets"
+      ],
+      "monogram": "Le",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 45,
+      "failureCount": 0
+    },
+    {
+      "id": "ideogram",
+      "name": "Ideogram",
+      "url": "https://ideogram.ai/",
+      "category": "images",
+      "summary": "A text-to-image generator that is unusually good at rendering words, logos, and poster typography. Free credits reset weekly.",
+      "tags": [
+        "Typography",
+        "Logos",
+        "AI images"
+      ],
+      "tier": "Free tier",
+      "tierClass": "tier",
+      "access": "Browser",
+      "keywords": [
+        "typography",
+        "logos",
+        "ai"
+      ],
+      "monogram": "Id",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 46,
+      "failureCount": 0
+    },
+    {
+      "id": "squoosh",
+      "name": "Squoosh",
+      "url": "https://squoosh.app/",
+      "category": "images",
+      "summary": "Google's browser-based image compressor with side-by-side quality comparisons. Free, private, and no upload to a server.",
+      "tags": [
+        "Compression",
+        "No signup",
+        "Privacy"
+      ],
+      "tier": "Free",
+      "tierClass": "tier tier-free",
+      "access": "Browser",
+      "keywords": [
+        "image",
+        "compression",
+        "converter"
+      ],
+      "monogram": "Sq",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 47,
+      "failureCount": 0
+    },
+    {
+      "id": "coolors",
+      "name": "Coolors",
+      "url": "https://coolors.co/",
+      "category": "images",
+      "summary": "A fast color palette generator with contrast checks and export options. The core palette tools are free.",
+      "tags": [
+        "Palettes",
+        "Contrast",
+        "Color"
+      ],
+      "tier": "Free tier",
+      "tierClass": "tier",
+      "access": "Browser",
+      "keywords": [
+        "color",
+        "palette"
+      ],
+      "monogram": "Co",
+      "source": "curated",
+      "sourceUrl": null,
+      "addedAt": "2026-11-19",
+      "lastChecked": "2026-11-20",
+      "status": "active",
+      "auto": false,
+      "guide": true,
+      "order": 48,
+      "failureCount": 0
+    },
+    {
+      "id": "musset-open-source-scrivener-alternative-with-an-ai-that-never-writes",
+      "name": "Musset, open-source Scrivener alternative with an AI that never writes",
+      "url": "https://github.com/Musset-App/musset",
+      "category": "text",
+      "summary": "Musset, open-source Scrivener alternative with an AI that never writes. I’m writing my first novel and could not find an app that fit my workflow: quiet like iA Writer, organized like Scrivener, and with AI so I can discuss my book while I…",
+      "tags": [
+        "AI",
+        "Open source",
+        "Writing"
+      ],
+      "tier": "Open source",
+      "tierClass": "tier tier-open",
+      "access": "Browser",
+      "keywords": [
+        "ai",
+        "open source",
+        "writing",
+        "musset",
+        "open-source",
+        "scrivener",
+        "alternative",
+        "never",
+        "writes",
+        "first",
+        "novel",
+        "could"
+      ],
+      "monogram": "MO",
+      "source": "show-hn",
+      "sourceUrl": "https://hn.algolia.com/api/v1/search_by_date",
+      "sourceSection": "Show HN",
+      "addedAt": "2026-11-21",
+      "lastChecked": "2026-11-21",
+      "status": "active",
+      "auto": true,
+      "guide": false,
+      "order": 49
+    }
+  ]
+}
