@@ -366,8 +366,8 @@
       "etag": "W/\"8fa85b90e7b027eacfc72f71bfb86adfd5692a6b00def0cd33397aced4094088\"",
       "lastModified": null,
       "cursor": 0,
-      "lastFetchedAt": "2026-11-21T10:12:01.685Z",
-      "lastRunAt": "2026-11-21T10:12:01.685Z"
+      "lastFetchedAt": "2026-11-21T10:20:17.028Z",
+      "lastRunAt": "2026-11-21T10:20:17.028Z"
     },
     "free-for-dev": {
       "initialized": true,
@@ -540,8 +540,8 @@
       "etag": "W/\"40df88533e3622547fde749a52288764900d8c714ce0586d3ba0cf8fb50005e1\"",
       "lastModified": null,
       "cursor": 0,
-      "lastFetchedAt": "2026-11-21T10:12:01.685Z",
-      "lastRunAt": "2026-11-21T10:12:01.685Z"
+      "lastFetchedAt": "2026-11-21T10:20:17.028Z",
+      "lastRunAt": "2026-11-21T10:20:17.028Z"
     },
     "show-hn": {
       "initialized": true,
@@ -621,8 +621,8 @@
       "etag": null,
       "lastModified": null,
       "cursor": 1795239769,
-      "lastFetchedAt": "2026-11-21T10:12:01.685Z",
-      "lastRunAt": "2026-11-21T10:12:01.685Z"
+      "lastFetchedAt": "2026-11-21T10:20:17.028Z",
+      "lastRunAt": "2026-11-21T10:20:17.028Z"
     }
   }
 }
