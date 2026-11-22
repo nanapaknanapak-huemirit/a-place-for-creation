@@ -366,8 +366,8 @@
       "etag": "W/\"8fa85b90e7b027eacfc72f71bfb86adfd5692a6b00def0cd33397aced4094088\"",
       "lastModified": null,
       "cursor": 0,
-      "lastFetchedAt": "2026-11-21T10:20:17.028Z",
-      "lastRunAt": "2026-11-21T10:20:17.028Z"
+      "lastFetchedAt": "2026-11-22T08:55:03.553Z",
+      "lastRunAt": "2026-11-22T08:55:03.553Z"
     },
     "free-for-dev": {
       "initialized": true,
@@ -537,11 +537,11 @@
         "https://localscreenshot.com",
         "https://shotlane.dev"
       ],
-      "etag": "W/\"40df88533e3622547fde749a52288764900d8c714ce0586d3ba0cf8fb50005e1\"",
+      "etag": "W/\"37720abaeccff4449ca6aa211bdc79039e7b73277a7f62525bcbe8124c4289cd\"",
       "lastModified": null,
       "cursor": 0,
-      "lastFetchedAt": "2026-11-21T10:20:17.028Z",
-      "lastRunAt": "2026-11-21T10:20:17.028Z"
+      "lastFetchedAt": "2026-11-22T08:55:03.553Z",
+      "lastRunAt": "2026-11-22T08:55:03.553Z"
     },
     "show-hn": {
       "initialized": true,
@@ -616,13 +616,24 @@
         "https://github.com/pug-sh/pug",
         "https://cherwellvalleymotorclub.app",
         "https://workbook.bui.app",
-        "https://github.com/XiaoMi/bsworld"
+        "https://github.com/XiaoMi/bsworld",
+        "https://github.com/tamnd/riemann-handbook",
+        "https://github.com/android2linux/android2linux",
+        "https://waffuru.ai/products/pantry",
+        "https://andrewxhill.com/frontier-model-weight-edits",
+        "https://onurgumus.github.io/zero-csharp/index.html",
+        "https://github.com/natsu0529/agent-mcts",
+        "https://outpostracer.com",
+        "https://github.com/niyamvora/ILoveNotch",
+        "https://unmark.grandimam.com",
+        "https://clawvet.vercel.app",
+        "https://rmrfbench.com"
       ],
       "etag": null,
       "lastModified": null,
-      "cursor": 1795239769,
-      "lastFetchedAt": "2026-11-21T10:20:17.028Z",
-      "lastRunAt": "2026-11-21T10:20:17.028Z"
+      "cursor": 1795326390,
+      "lastFetchedAt": "2026-11-22T08:55:03.553Z",
+      "lastRunAt": "2026-11-22T08:55:03.553Z"
     }
   }
 }
