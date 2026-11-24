@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T10:12:01.685Z",
+  "updatedAt": "2026-11-24T10:37:26.410Z",
   "tools": [
     {
       "id": "capcut",
@@ -1460,6 +1460,123 @@
       "auto": true,
       "guide": false,
       "order": 49
+    },
+    {
+      "id": "taskless-turn-agentsmd-and-pr-comments-into-runnable-checks",
+      "name": "Taskless, turn AGENTS.md and PR comments into runnable checks",
+      "url": "https://taskless.io",
+      "category": "text",
+      "summary": "Taskless, turn AGENTS.md and PR comments into runnable checks. Hey HN, I&#x27;m Jakob, the solo dev and founder behind Taskless. I got tired of my AGENTS.md files being ignored or forgotten a half dozen turns into conversations. I also…",
+      "tags": [
+        "AI",
+        "Open source",
+        "Writing"
+      ],
+      "tier": "Open source",
+      "tierClass": "tier tier-open",
+      "access": "Browser · Desktop",
+      "keywords": [
+        "ai",
+        "open source",
+        "writing",
+        "taskless",
+        "turn",
+        "agents",
+        "comments",
+        "runnable",
+        "checks",
+        "hey",
+        "#x27",
+        "jakob"
+      ],
+      "monogram": "TT",
+      "source": "show-hn",
+      "sourceUrl": "https://hn.algolia.com/api/v1/search_by_date",
+      "sourceSection": "Show HN",
+      "addedAt": "2026-11-24",
+      "lastChecked": "2026-11-24",
+      "status": "active",
+      "auto": true,
+      "guide": false,
+      "order": 50
+    },
+    {
+      "id": "rmux-a-lightweight-gpu-rendered-terminal-workspace",
+      "name": "Rmux – A lightweight GPU rendered terminal workspace",
+      "url": "https://rmux.app",
+      "category": "images",
+      "summary": "Rmux – A lightweight GPU rendered terminal workspace. Hey HN, I&#x27;ve been working on rmux, an open source terminal workspace built in Rust using GPUI and Ghostty&#x27;s terminal engine. The main focus has been performance. I wanted…",
+      "tags": [
+        "AI",
+        "Open source",
+        "Palettes"
+      ],
+      "tier": "Open source",
+      "tierClass": "tier tier-open",
+      "access": "Browser",
+      "keywords": [
+        "ai",
+        "open source",
+        "palettes",
+        "rmux",
+        "lightweight",
+        "gpu",
+        "rendered",
+        "terminal",
+        "workspace",
+        "hey",
+        "#x27",
+        "been"
+      ],
+      "monogram": "R–",
+      "source": "show-hn",
+      "sourceUrl": "https://hn.algolia.com/api/v1/search_by_date",
+      "sourceSection": "Show HN",
+      "addedAt": "2026-11-24",
+      "lastChecked": "2026-11-24",
+      "status": "active",
+      "auto": true,
+      "guide": false,
+      "order": 51
+    },
+    {
+      "id": "a-free-creative-suite-built-in-rust-for-ai-collaboration",
+      "name": "A free creative suite, built in Rust, for AI collaboration",
+      "url": "https://codeyam.com/apps/cadyam",
+      "category": "images",
+      "summary": "A free creative suite, built in Rust, for AI collaboration. Hi HN, I&#x27;m Nadia, one of the makers of CadYam. My cofounder Jared is here to answer questions as well. CadYam is a desktop design app built for a person and an AI agent to…",
+      "tags": [
+        "AI",
+        "Video",
+        "Design"
+      ],
+      "tier": "Free",
+      "tierClass": "tier tier-free",
+      "access": "Browser · Desktop",
+      "keywords": [
+        "ai",
+        "video",
+        "design",
+        "creative",
+        "suite",
+        "built",
+        "rust",
+        "collaboration",
+        "#x27",
+        "nadia",
+        "one",
+        "makers"
+      ],
+      "monogram": "AF",
+      "source": "show-hn",
+      "sourceUrl": "https://hn.algolia.com/api/v1/search_by_date",
+      "sourceSection": "Show HN",
+      "addedAt": "2026-11-24",
+      "lastChecked": "2026-11-24",
+      "status": "active",
+      "auto": true,
+      "guide": false,
+      "order": 52
     }
   ]
 }

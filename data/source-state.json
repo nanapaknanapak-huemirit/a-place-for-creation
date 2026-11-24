@@ -366,8 +366,8 @@
       "etag": "W/\"8fa85b90e7b027eacfc72f71bfb86adfd5692a6b00def0cd33397aced4094088\"",
       "lastModified": null,
       "cursor": 0,
-      "lastFetchedAt": "2026-11-22T08:55:03.553Z",
-      "lastRunAt": "2026-11-22T08:55:03.553Z"
+      "lastFetchedAt": "2026-11-24T10:37:26.410Z",
+      "lastRunAt": "2026-11-24T10:37:26.410Z"
     },
     "free-for-dev": {
       "initialized": true,
@@ -537,11 +537,11 @@
         "https://localscreenshot.com",
         "https://shotlane.dev"
       ],
-      "etag": "W/\"37720abaeccff4449ca6aa211bdc79039e7b73277a7f62525bcbe8124c4289cd\"",
+      "etag": "W/\"ce47155bc5e428fba5690ffdd7f33b593580b4e4cc50f7280500a67647fd7f04\"",
       "lastModified": null,
       "cursor": 0,
-      "lastFetchedAt": "2026-11-22T08:55:03.553Z",
-      "lastRunAt": "2026-11-22T08:55:03.553Z"
+      "lastFetchedAt": "2026-11-24T10:37:26.410Z",
+      "lastRunAt": "2026-11-24T10:37:26.410Z"
     },
     "show-hn": {
       "initialized": true,
@@ -627,13 +627,44 @@
         "https://github.com/niyamvora/ILoveNotch",
         "https://unmark.grandimam.com",
         "https://clawvet.vercel.app",
-        "https://rmrfbench.com"
+        "https://rmrfbench.com",
+        "https://ant-lang.org",
+        "https://github.com/GenesisAgentInfra/genesis",
+        "https://juncts.com/app?demo=1",
+        "https://firevoice.fabwaseem.com",
+        "https://github.com/SandeepAi369/Agent-first-browse",
+        "https://docs.microfeed.org",
+        "https://amni-scient.com/amni-cad",
+        "https://github.com/cpendery/console.tty",
+        "https://huggingface.co/llamaindex/OCRia-nano-1",
+        "https://github.com/bhushan/getsecondbrain.io",
+        "https://codeyam.com/apps/cadyam",
+        "https://github.com/okcontract/zean",
+        "https://github.com/ruairidhflint/news-blocklist",
+        "https://ddecoene.github.io/WebSidTracker",
+        "https://hermitcrm.io",
+        "https://github.com/njgreb/n64fireplace",
+        "https://hammerspoon.org",
+        "https://thanes-quest.daventry.io",
+        "https://trixapp.ai",
+        "https://github.com/ltrgoddard/gall",
+        "https://apps.apple.com/us/app/flighttrack-flight-tracker/id6788552553",
+        "https://you-are-hilbert.koenvangilst.nl",
+        "https://taskless.io",
+        "https://github.com/stass/type-c",
+        "https://github.com/mahmoud-emad/opennotebook",
+        "https://installplango.com",
+        "https://github.com/pkukielka/gitfold",
+        "https://github.com/gulivan/worker755",
+        "https://rmux.app",
+        "https://github.com/BandarLabs/Cobalt/tree/main/apps/lichess",
+        "https://homebrain.house"
       ],
       "etag": null,
       "lastModified": null,
-      "cursor": 1795326390,
-      "lastFetchedAt": "2026-11-22T08:55:03.553Z",
-      "lastRunAt": "2026-11-22T08:55:03.553Z"
+      "cursor": 1795502940,
+      "lastFetchedAt": "2026-11-24T10:37:26.410Z",
+      "lastRunAt": "2026-11-24T10:37:26.410Z"
     }
   }
 }
