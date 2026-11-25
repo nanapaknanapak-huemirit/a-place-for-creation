@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T10:37:26.410Z",
+  "updatedAt": "2026-11-25T10:07:56.703Z",
   "tools": [
     {
       "id": "capcut",
@@ -1577,6 +1577,44 @@
       "auto": true,
       "guide": false,
       "order": 52
+    },
+    {
+      "id": "lightscale-ai-a-language-for-llms-to-write-business-software",
+      "name": "Lightscale AI – A language for LLMs to write business software",
+      "url": "https://lightscale.ai",
+      "category": "text",
+      "summary": "Lightscale AI – A language for LLMs to write business software. I am Luc, one of the co-founders of Lightscale AI. I have background in programming languages (ETH Zurich) and we are small team in Zug, Switzerland. As more and more code is…",
+      "tags": [
+        "AI",
+        "Design"
+      ],
+      "tier": "Free",
+      "tierClass": "tier tier-free",
+      "access": "Browser",
+      "keywords": [
+        "ai",
+        "design",
+        "lightscale",
+        "language",
+        "llms",
+        "write",
+        "business",
+        "software",
+        "luc",
+        "one",
+        "co-founders",
+        "have"
+      ],
+      "monogram": "LA",
+      "source": "show-hn",
+      "sourceUrl": "https://hn.algolia.com/api/v1/search_by_date",
+      "sourceSection": "Show HN",
+      "addedAt": "2026-11-25",
+      "lastChecked": "2026-11-25",
+      "status": "active",
+      "auto": true,
+      "guide": false,
+      "order": 53
     }
   ]
 }

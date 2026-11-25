@@ -366,8 +366,8 @@
       "etag": "W/\"8fa85b90e7b027eacfc72f71bfb86adfd5692a6b00def0cd33397aced4094088\"",
       "lastModified": null,
       "cursor": 0,
-      "lastFetchedAt": "2026-11-24T10:37:26.410Z",
-      "lastRunAt": "2026-11-24T10:37:26.410Z"
+      "lastFetchedAt": "2026-11-25T10:07:56.703Z",
+      "lastRunAt": "2026-11-25T10:07:56.703Z"
     },
     "free-for-dev": {
       "initialized": true,
@@ -537,11 +537,11 @@
         "https://localscreenshot.com",
         "https://shotlane.dev"
       ],
-      "etag": "W/\"ce47155bc5e428fba5690ffdd7f33b593580b4e4cc50f7280500a67647fd7f04\"",
+      "etag": "W/\"e32112c011cefa8961006eeacdc1a34a3c91753b58548f6bdb4a3cdfdeab3b51\"",
       "lastModified": null,
       "cursor": 0,
-      "lastFetchedAt": "2026-11-24T10:37:26.410Z",
-      "lastRunAt": "2026-11-24T10:37:26.410Z"
+      "lastFetchedAt": "2026-11-25T10:07:56.703Z",
+      "lastRunAt": "2026-11-25T10:07:56.703Z"
     },
     "show-hn": {
       "initialized": true,
@@ -658,13 +658,33 @@
         "https://github.com/gulivan/worker755",
         "https://rmux.app",
         "https://github.com/BandarLabs/Cobalt/tree/main/apps/lichess",
-        "https://homebrain.house"
+        "https://homebrain.house",
+        "https://lightscale.ai",
+        "https://interstateweather.com",
+        "https://gpu-demo-gallery.pages.dev",
+        "https://carry.md",
+        "https://vcarl.com/sashay",
+        "https://github.com/Spilveru/mergeon",
+        "https://apps.apple.com/us/app/nemos-second-brain-memos/id6791134304",
+        "https://modelxare.com",
+        "https://hnpredictions.com",
+        "https://mole.so",
+        "https://baseshift.com/blog/dc1",
+        "https://livingwallapp.com/hn",
+        "https://masondata.ai",
+        "https://github.com/hatchet-dev/brickie",
+        "https://notebook.link/@arjxn-py/3d-nepal-flood",
+        "https://open-interpretability.com/posts/explain/index.html",
+        "https://github.com/univec-ai/postvec",
+        "https://github.com/scarif-labs/horus",
+        "https://github.com/clockoli/clockoli",
+        "https://bongbong.io"
       ],
       "etag": null,
       "lastModified": null,
-      "cursor": 1795502940,
-      "lastFetchedAt": "2026-11-24T10:37:26.410Z",
-      "lastRunAt": "2026-11-24T10:37:26.410Z"
+      "cursor": 1795592181,
+      "lastFetchedAt": "2026-11-25T10:07:56.703Z",
+      "lastRunAt": "2026-11-25T10:07:56.703Z"
     }
   }
 }
