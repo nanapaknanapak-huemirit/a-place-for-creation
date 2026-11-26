@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T10:07:56.703Z",
+  "updatedAt": "2026-11-26T09:56:39.777Z",
   "tools": [
     {
       "id": "capcut",
@@ -1615,6 +1615,43 @@
       "auto": true,
       "guide": false,
       "order": 53
+    },
+    {
+      "id": "olumino-a-markdown-notes-and-spaced-repetition-app",
+      "name": "Olumino, a Markdown notes and spaced repetition app",
+      "url": "https://olumino.app",
+      "category": "text",
+      "summary": "Olumino, a Markdown notes and spaced repetition app. I was inspired by Mochi and Anki, but wanted to make something that’s a mix of the two. Anki is very confusing and has an outdated interface while Mochi is very simple and has a more…",
+      "tags": [
+        "Text"
+      ],
+      "tier": "Free",
+      "tierClass": "tier tier-free",
+      "access": "Browser",
+      "keywords": [
+        "text",
+        "olumino",
+        "markdown",
+        "notes",
+        "spaced",
+        "repetition",
+        "was",
+        "inspired",
+        "mochi",
+        "anki",
+        "but",
+        "wanted"
+      ],
+      "monogram": "OA",
+      "source": "show-hn",
+      "sourceUrl": "https://hn.algolia.com/api/v1/search_by_date",
+      "sourceSection": "Show HN",
+      "addedAt": "2026-11-26",
+      "lastChecked": "2026-11-26",
+      "status": "active",
+      "auto": true,
+      "guide": false,
+      "order": 54
     }
   ]
 }

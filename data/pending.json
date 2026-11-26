@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T10:07:56.703Z",
+  "updatedAt": "2026-11-26T09:56:39.777Z",
   "items": [
     {
       "id": "how-deep-is-the-riemann-hypothesis-an-interactive-explainer",
@@ -685,6 +685,89 @@
       "sourceSection": "Show HN",
       "reason": "category unclear",
       "firstSeenAt": "2026-11-25"
+    },
+    {
+      "id": "anthropic-and-openai-math-tracker",
+      "name": "Anthropic and OpenAI Math Tracker",
+      "url": "https://bedolpab.github.io/antoai-math",
+      "category": "text",
+      "categoryConfidence": 0.67,
+      "freeConfidence": 0.45,
+      "freeReason": "source-baseline",
+      "summary": "Anthropic and OpenAI Math Tracker. Hard to keep up with math updates across labs. Pulls the latest math preprints and solutions from anthropics&#x2F;formal-math and openai&#x2F;math and puts them side by side with dates and direct PDF…",
+      "tags": [
+        "AI",
+        "PDF"
+      ],
+      "source": "show-hn",
+      "sourceLabel": "Show HN",
+      "sourceSection": "Show HN",
+      "reason": "free access unclear",
+      "firstSeenAt": "2026-11-26"
+    },
+    {
+      "id": "run-your-own-hacker-news-on-hatamoto-open-source-one-binary",
+      "name": "Run your own Hacker News on Hatamoto (open-source, one binary)",
+      "url": "https://news.hatamoto.dev",
+      "category": null,
+      "categoryConfidence": 0,
+      "freeConfidence": 1,
+      "freeReason": "open-source",
+      "summary": "Run your own Hacker News on Hatamoto (open-source, one binary).",
+      "tags": [],
+      "source": "show-hn",
+      "sourceLabel": "Show HN",
+      "sourceSection": "Show HN",
+      "reason": "category unclear",
+      "firstSeenAt": "2026-11-26"
+    },
+    {
+      "id": "openfal-local-image-and-video-generation-with-a-fal-style-api",
+      "name": "Openfal, local image and video generation with a fal-style API",
+      "url": "https://openfal.org",
+      "category": null,
+      "categoryConfidence": 0,
+      "freeConfidence": 0.45,
+      "freeReason": "source-baseline",
+      "summary": "Openfal, local image and video generation with a fal-style API.",
+      "tags": [],
+      "source": "show-hn",
+      "sourceLabel": "Show HN",
+      "sourceSection": "Show HN",
+      "reason": "category unclear",
+      "firstSeenAt": "2026-11-26"
+    },
+    {
+      "id": "run-inkling-2-mini-on-mac-faster-than-anywhere-else",
+      "name": "Run Inkling 2 Mini on Mac Faster Than Anywhere Else",
+      "url": "https://subconscious.dev/local",
+      "category": null,
+      "categoryConfidence": 0,
+      "freeConfidence": 0.85,
+      "freeReason": "free",
+      "summary": "Run Inkling 2 Mini on Mac Faster Than Anywhere Else. We developed a local inference engine that&#x27;s faster than llama.cpp, vllm-metal, and mlx-lm. Download and try for yourself. Free, private, fast forever. Inkling 2 Mini is very…",
+      "tags": [],
+      "source": "show-hn",
+      "sourceLabel": "Show HN",
+      "sourceSection": "Show HN",
+      "reason": "category unclear",
+      "firstSeenAt": "2026-11-26"
+    },
+    {
+      "id": "free-tool-to-collect-invoices-and-spot-forgotten-subscriptions",
+      "name": "Free tool to collect invoices and spot forgotten subscriptions",
+      "url": "https://spendgap.ai",
+      "category": null,
+      "categoryConfidence": 0,
+      "freeConfidence": 1,
+      "freeReason": "open-source",
+      "summary": "Free tool to collect invoices and spot forgotten subscriptions. At my previous company, I spent hours every month going through our bank statements and looking for the invoice behind each charge. There are many invoice collectors, with…",
+      "tags": [],
+      "source": "show-hn",
+      "sourceLabel": "Show HN",
+      "sourceSection": "Show HN",
+      "reason": "category unclear",
+      "firstSeenAt": "2026-11-26"
     }
   ]
 }
