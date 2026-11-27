@@ -366,8 +366,8 @@
       "etag": "W/\"8fa85b90e7b027eacfc72f71bfb86adfd5692a6b00def0cd33397aced4094088\"",
       "lastModified": null,
       "cursor": 0,
-      "lastFetchedAt": "2026-11-26T09:56:39.777Z",
-      "lastRunAt": "2026-11-26T09:56:39.777Z"
+      "lastFetchedAt": "2026-11-27T10:10:08.049Z",
+      "lastRunAt": "2026-11-27T10:10:08.049Z"
     },
     "free-for-dev": {
       "initialized": true,
@@ -537,11 +537,11 @@
         "https://localscreenshot.com",
         "https://shotlane.dev"
       ],
-      "etag": "W/\"26d250d3b08aeb16b988a0f861604857d2bcea1b58993c0b1933cef29ed9b997\"",
+      "etag": "W/\"837b991221bcf5bcf93fe84f71b52b841c4af69945175a75d87d9ee39738595a\"",
       "lastModified": null,
       "cursor": 0,
-      "lastFetchedAt": "2026-11-26T09:56:39.777Z",
-      "lastRunAt": "2026-11-26T09:56:39.777Z"
+      "lastFetchedAt": "2026-11-27T10:10:08.049Z",
+      "lastRunAt": "2026-11-27T10:10:08.049Z"
     },
     "show-hn": {
       "initialized": true,
@@ -687,13 +687,27 @@
         "https://subconscious.dev/local",
         "https://github.com/danieldaeschle/rusty-teams",
         "https://github.com/click6067-ship-it/token-tv",
-        "https://spendgap.ai"
+        "https://spendgap.ai",
+        "https://sqrin.app",
+        "https://shirudo.today/blog/launch.html",
+        "https://rotate.ad",
+        "https://singlecalendar.com",
+        "https://maic.me/alpoge",
+        "https://triptych.github.io/web-games-andrew/console",
+        "https://github.com/gary23w/f-ck_data_brokers",
+        "https://github.com/rxliuli/sim-drop",
+        "https://github.com/HarsH-1877/Dev-Mem",
+        "https://github.com/glattziehen/lazyfwd",
+        "https://michidk.github.io/sidebyside",
+        "http://themouseless.dev/vim",
+        "https://github.com/batanus/lip-dictation",
+        "https://github.com/penielny/selenia"
       ],
       "etag": null,
       "lastModified": null,
-      "cursor": 1795678681,
-      "lastFetchedAt": "2026-11-26T09:56:39.777Z",
-      "lastRunAt": "2026-11-26T09:56:39.777Z"
+      "cursor": 1795748002,
+      "lastFetchedAt": "2026-11-27T10:10:08.049Z",
+      "lastRunAt": "2026-11-27T10:10:08.049Z"
     }
   }
 }

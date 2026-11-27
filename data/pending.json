@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T09:56:39.777Z",
+  "updatedAt": "2026-11-27T10:10:08.049Z",
   "items": [
     {
       "id": "how-deep-is-the-riemann-hypothesis-an-interactive-explainer",
@@ -768,6 +768,139 @@
       "sourceSection": "Show HN",
       "reason": "category unclear",
       "firstSeenAt": "2026-11-26"
+    },
+    {
+      "id": "sqrin-a-better-screen-share-for-mac",
+      "name": "Sqrin – A better screen share for Mac",
+      "url": "https://sqrin.app",
+      "category": null,
+      "categoryConfidence": 0,
+      "freeConfidence": 0.45,
+      "freeReason": "source-baseline",
+      "summary": "Sqrin – A better screen share for Mac.",
+      "tags": [],
+      "source": "show-hn",
+      "sourceLabel": "Show HN",
+      "sourceSection": "Show HN",
+      "reason": "category unclear",
+      "firstSeenAt": "2026-11-27"
+    },
+    {
+      "id": "shirudotoday-virtual-ebpf-patching-on-stock-linux",
+      "name": "Shirudo.today: Virtual eBPF patching on stock Linux",
+      "url": "https://shirudo.today/blog/launch.html",
+      "category": null,
+      "categoryConfidence": 0,
+      "freeConfidence": 0.45,
+      "freeReason": "source-baseline",
+      "summary": "Shirudo.today: Virtual eBPF patching on stock Linux. OpenAI&#x27;s Shirudo needs kernel patches that still will take a couple more months, so we decided to make it available today. The threat model degrades to a compromised root, but makes…",
+      "tags": [],
+      "source": "show-hn",
+      "sourceLabel": "Show HN",
+      "sourceSection": "Show HN",
+      "reason": "category unclear",
+      "firstSeenAt": "2026-11-27"
+    },
+    {
+      "id": "i-built-90s-style-low-cost-ads-concept-with-rotate-ad-exchange",
+      "name": "I Built 90s Style Low Cost Ads Concept with Rotate Ad Exchange",
+      "url": "https://rotate.ad",
+      "category": null,
+      "categoryConfidence": 0,
+      "freeConfidence": 0.45,
+      "freeReason": "source-baseline",
+      "summary": "I Built 90s Style Low Cost Ads Concept with Rotate Ad Exchange. Heyy HN community, Many of you heard Ad4Ad or You show my ad i show your ad type of barter ad system! i built the same system with a fair ad serving architecture. I named it…",
+      "tags": [],
+      "source": "show-hn",
+      "sourceLabel": "Show HN",
+      "sourceSection": "Show HN",
+      "reason": "category unclear",
+      "firstSeenAt": "2026-11-27"
+    },
+    {
+      "id": "single-calendar-sync-multiple-google-calendars",
+      "name": "Single Calendar – Sync multiple Google calendars",
+      "url": "https://singlecalendar.com",
+      "category": null,
+      "categoryConfidence": 0,
+      "freeConfidence": 0.45,
+      "freeReason": "source-baseline",
+      "summary": "Single Calendar – Sync multiple Google calendars.",
+      "tags": [],
+      "source": "show-hn",
+      "sourceLabel": "Show HN",
+      "sourceSection": "Show HN",
+      "reason": "category unclear",
+      "firstSeenAt": "2026-11-27"
+    },
+    {
+      "id": "explore-the-17m-line-lean-proof-of-the-riemann-hypothesis",
+      "name": "Explore the 17M-line Lean proof of the Riemann Hypothesis",
+      "url": "https://maic.me/alpoge",
+      "category": null,
+      "categoryConfidence": 0,
+      "freeConfidence": 0.45,
+      "freeReason": "source-baseline",
+      "summary": "Explore the 17M-line Lean proof of the Riemann Hypothesis.",
+      "tags": [],
+      "source": "show-hn",
+      "sourceLabel": "Show HN",
+      "sourceSection": "Show HN",
+      "reason": "category unclear",
+      "firstSeenAt": "2026-11-27"
+    },
+    {
+      "id": "pocket-garden-150-plus-web-games-in-a-virtual-console",
+      "name": "Pocket Garden – 150 plus web games in a virtual console",
+      "url": "https://triptych.github.io/web-games-andrew/console",
+      "category": "images",
+      "categoryConfidence": 0.67,
+      "freeConfidence": 0.45,
+      "freeReason": "source-baseline",
+      "summary": "Pocket Garden – 150 plus web games in a virtual console. 150 + web games created by Claude Opus with an integrated console with cloud saves for the games and a way to chat with each game avatar.",
+      "tags": [
+        "Images"
+      ],
+      "source": "show-hn",
+      "sourceLabel": "Show HN",
+      "sourceSection": "Show HN",
+      "reason": "free access unclear",
+      "firstSeenAt": "2026-11-27"
+    },
+    {
+      "id": "three-linux-vms-in-a-browser-tab-each-running-a-different-browser",
+      "name": "Three Linux VMs in a browser tab, each running a different browser",
+      "url": "https://michidk.github.io/sidebyside",
+      "category": null,
+      "categoryConfidence": 0,
+      "freeConfidence": 0.45,
+      "freeReason": "source-baseline",
+      "summary": "Three Linux VMs in a browser tab, each running a different browser.",
+      "tags": [],
+      "source": "show-hn",
+      "sourceLabel": "Show HN",
+      "sourceSection": "Show HN",
+      "reason": "category unclear",
+      "firstSeenAt": "2026-11-27"
+    },
+    {
+      "id": "i-wrote-an-entire-vim-manual-over-4-years",
+      "name": "I wrote an entire Vim manual over 4 years",
+      "url": "http://themouseless.dev/vim",
+      "category": "text",
+      "categoryConfidence": 0.79,
+      "freeConfidence": 0.45,
+      "freeReason": "source-baseline",
+      "summary": "I wrote an entire Vim manual over 4 years. I&#x27;m glad to announce that I&#x27;m releasing my new book, Learning to Play Vim. When I started using Vim more than a decade ago, I wished there was a manual out there teaching how to use this…",
+      "tags": [
+        "AI",
+        "Editor"
+      ],
+      "source": "show-hn",
+      "sourceLabel": "Show HN",
+      "sourceSection": "Show HN",
+      "reason": "free access unclear",
+      "firstSeenAt": "2026-11-27"
     }
   ]
 }
