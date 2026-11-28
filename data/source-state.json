@@ -366,8 +366,8 @@
       "etag": "W/\"8fa85b90e7b027eacfc72f71bfb86adfd5692a6b00def0cd33397aced4094088\"",
       "lastModified": null,
       "cursor": 0,
-      "lastFetchedAt": "2026-11-27T10:10:08.049Z",
-      "lastRunAt": "2026-11-27T10:10:08.049Z"
+      "lastFetchedAt": "2026-11-28T09:29:47.788Z",
+      "lastRunAt": "2026-11-28T09:29:47.788Z"
     },
     "free-for-dev": {
       "initialized": true,
@@ -537,11 +537,11 @@
         "https://localscreenshot.com",
         "https://shotlane.dev"
       ],
-      "etag": "W/\"837b991221bcf5bcf93fe84f71b52b841c4af69945175a75d87d9ee39738595a\"",
+      "etag": "W/\"f4dcf4dd921aaf5de8ae5ea2ece12c43142d38fe01ceb4850b3cf36900df22b6\"",
       "lastModified": null,
       "cursor": 0,
-      "lastFetchedAt": "2026-11-27T10:10:08.049Z",
-      "lastRunAt": "2026-11-27T10:10:08.049Z"
+      "lastFetchedAt": "2026-11-28T09:29:47.788Z",
+      "lastRunAt": "2026-11-28T09:29:47.788Z"
     },
     "show-hn": {
       "initialized": true,
@@ -701,13 +701,26 @@
         "https://michidk.github.io/sidebyside",
         "http://themouseless.dev/vim",
         "https://github.com/batanus/lip-dictation",
-        "https://github.com/penielny/selenia"
+        "https://github.com/penielny/selenia",
+        "https://unlab.run",
+        "https://wikivectors.com",
+        "https://tesseracted.com/experiments-llm-os",
+        "https://github.com/YasserShkeir/glossbeam-open",
+        "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10",
+        "https://code.blago.cloud/blago/mcp_id3",
+        "https://dragdropmath.com",
+        "https://kingminusman.com",
+        "https://rentagoon.com",
+        "https://onair.io/blog/agents-can-call",
+        "https://bouncemarket.minhanhday.com",
+        "https://webosarchive.org/pivot/2026/11/27/the-story-so-far",
+        "https://europeinstead.com"
       ],
       "etag": null,
       "lastModified": null,
-      "cursor": 1795748002,
-      "lastFetchedAt": "2026-11-27T10:10:08.049Z",
-      "lastRunAt": "2026-11-27T10:10:08.049Z"
+      "cursor": 1795850778,
+      "lastFetchedAt": "2026-11-28T09:29:47.788Z",
+      "lastRunAt": "2026-11-28T09:29:47.788Z"
     }
   }
 }

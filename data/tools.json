@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T09:56:39.777Z",
+  "updatedAt": "2026-11-28T09:29:47.788Z",
   "tools": [
     {
       "id": "capcut",
@@ -1652,6 +1652,44 @@
       "auto": true,
       "guide": false,
       "order": 54
+    },
+    {
+      "id": "europe-instead-find-the-european-version-of-the-tools-you-use",
+      "name": "Europe Instead – find the European version of the tools you use",
+      "url": "https://europeinstead.com",
+      "category": "text",
+      "summary": "Europe Instead – find the European version of the tools you use. Hi HN, I&#x27;m Rafael. Europe Instead is a directory of European-made software: https:&#x2F;&#x2F;europeinstead.com I built it because every time we needed a new tool at my…",
+      "tags": [
+        "AI",
+        "Writing"
+      ],
+      "tier": "Free",
+      "tierClass": "tier tier-free",
+      "access": "Browser",
+      "keywords": [
+        "ai",
+        "writing",
+        "europe",
+        "instead",
+        "find",
+        "european",
+        "version",
+        "you",
+        "use",
+        "#x27",
+        "rafael",
+        "directory"
+      ],
+      "monogram": "EI",
+      "source": "show-hn",
+      "sourceUrl": "https://hn.algolia.com/api/v1/search_by_date",
+      "sourceSection": "Show HN",
+      "addedAt": "2026-11-28",
+      "lastChecked": "2026-11-28",
+      "status": "active",
+      "auto": true,
+      "guide": false,
+      "order": 55
     }
   ]
 }
